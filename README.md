@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning  ****Java****
 
-- 👨‍💻 Checkout my portfolio <a href="https://mdzahidhaider.github.io"> My Portfolio </a>
+- 👨‍💻 Checkout my portfolio <a href="https://mdzahidhaider.github.io/"> My Portfolio </a>
 
 - 💬 Ask me about ***Java, Spring Boot, Javascript, Hibernate***
 
