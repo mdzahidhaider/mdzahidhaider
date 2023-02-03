@@ -16,7 +16,7 @@
 
 - 💬 Ask me about ***Java, Spring Boot, Javascript, Hibernate***
 
-- 📫 Reach me at **mdzahidhaider@outlook.com**
+- 📫 Reach me at **mdzahidhaider@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1pZ6MgaYPM6D-Nt0QUKYOfOjdwUmbijyH/view?usp=share_link">Md_Zahid_Haider_Resume</a>
 
