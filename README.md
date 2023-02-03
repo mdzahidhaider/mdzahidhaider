@@ -56,6 +56,7 @@
   
   
 <!--   <img src="https://media.tenor.com/56qHC2FkTnwAAAAC/line-color.gif" width=110% height=100px> -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdzahidhaider&theme=react-dark&hide_border=true">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=110%> 
 
 <!--
