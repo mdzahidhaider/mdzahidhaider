@@ -14,7 +14,7 @@
 
 - 👨‍💻 Checkout my portfolio <a href="https://mdzahidhaider.github.io/"> My Portfolio </a>
 
-- 💬 Ask me about ***Java, Spring Boot, Javascript, Hibernate***
+- 💬 Ask me about ***Java, Spring Boot, Javascript, Hibernete***
 
 - 📫 Reach me at **mdzahidhaider@gmail.com**
 
