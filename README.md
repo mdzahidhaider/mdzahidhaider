@@ -42,21 +42,33 @@
     </p>
     </br>
      <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzahidhaider&theme=radical" width="48%" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzahidhaider&show_icons=true&theme=radical" width="48%" />
+<!--    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzahidhaider&theme=radical" width="48%" /> -->
+<!--    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdzahidhaider&show_icons=true&theme=radical" width="48%" /> -->
   </p>
   
 
   </br>
+  <p align="">
+   
+ <img align="left" alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzahidhaider&count_private=true&theme=radical&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+    
+  <img alt="status github, commits, etc..." width="500px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mdzahidhaider&count_private=true&show_icons=true&custom_title=Github&theme=radical&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
+ 
+
+   <img alt=" Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=mdzahidhaider&show_icons=true&count_private=true&theme=radical&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/></a>
+    
+    
+</p>
 
   
-  <p align="center">
+<!--   <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdzahidhaider&theme=radical&langs_count=8"  width="24%"/>
-</p>
+</p> -->
   
   
 <!--   <img src="https://media.tenor.com/56qHC2FkTnwAAAAC/line-color.gif" width=110% height=100px> -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mdzahidhaider&theme=react-dark&hide_border=true">
+  
+<!--   <img align="left" src="https://github-readme-activity-graph.cyclic.app/graph?username=mdzahidhaider&theme=react-dark&hide_border=true"> -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=110%> 
 
 <!--
