@@ -29,7 +29,7 @@
 <!-- - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1XE1KNR45aAapIEcC308jLtBsP-7Er3X6/view?usp=share_link">Md-Zahid-Haider-Resume</a> -->
 <!--  -->
 
-<img align="right" alt="Coding" height="201" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" height="301" width="450" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <hr>
 
 <!-- - 🔭 I’m currently working on <a href=". -->
