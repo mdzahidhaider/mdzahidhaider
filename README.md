@@ -29,14 +29,14 @@
 <!-- - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1XE1KNR45aAapIEcC308jLtBsP-7Er3X6/view?usp=share_link">Md-Zahid-Haider-Resume</a> -->
 <!--  -->
 
-<img align="right" alt="Coding" height="301" width="450" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" height="201" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <hr>
 
 <!-- - 🔭 I’m currently working on <a href=". -->
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 Reach me at: `mdzahidhaider@outlook.com`
+- 📫 Reach me at `mdzahidhaider@outlook.com`
 - 💬 Ask me about **Java, Spring Boot, Javascript, Hibernate**
 
 - 👨‍💻 All of my projects are available at <a href="https://mdzahidhaider.github.io/" target="blank"> `My Portfolio`</a>
@@ -52,7 +52,7 @@
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mdzahidhaider" target="blank"><img align="center" src="" alt="mdzahidhaider" height="30" width="105" /></a> -->
-</p>
+<!-- </p> -->
 
 <hr>
 </br>
