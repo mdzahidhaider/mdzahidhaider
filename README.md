@@ -24,15 +24,78 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/zahid-haider-b38a3b228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="mdzahidhaider"/></a>
- <a href="https://twitter.com/mdzahidhaider" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdzahidhaider" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zahid-haider-b38a3b228/" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="40" width="50" alt="mdzahidhaider"/></a>
+ <a href="https://twitter.com/mdzahidhaider" target="blank"><img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="mdzahidhaider" height="30" width="40" /></a> 
 
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<!-- <p align="center"> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>  -->
+ 👉 Backend Development
+<p align="center" background-color="yellow"> 
+  &emsp; 
+  <a href="" target="_blank"> 
+   <img width="75px" alt="Java" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+  </a>   
+	
+  <a href="" target="_blank"> 
+   <img width="75px" alt="Spring Boot" src="https://img.icons8.com/color/48/000000/spring-logo.png">
+  </a> 
+   <a href="" target="_blank"> 
+   <img width="92px" alt="ms" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXUIpsgnqvv7QBhM_YF8TvyvvY0xilhccB7Q&usqp=CAU">
+  </a> 
+ <a href="" target="_blank"> 
+   <img width="75px" alt="Hibernate" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg">
+  </a> 
+	  <a href="" target="_blank"> 
+   <img width="75px" alt="BOOT" src="https://suraj-996.github.io/images/spring-boot-logo.png">
+  </a> 
+  <a href="" target="_blank"> 
+   <img width="75px" alt="MySql" src="https://img.icons8.com/fluent/50/000000/mysql-logo.png">
+  </a> 
+  <a href="" target="_blank"> 
+   <img width="75px" alt="Postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+  </a> 
+   <a href="" target="_blank"> 
+   <img width="96px" alt="aws" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3YAVEhwvLis_BDcbDV0WUOeYAkISG4NETAQ&usqp=CAU">
+  </a> 
+   
+</p>
+
+### 👉 Frontend Development
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank">   
+   <img width="75px" alt="HTML" src="https://img.icons8.com/color/344/html-5.png">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img width="75px" alt="CSS" src="https://img.icons8.com/color/344/css3.png">
+  </a> 
+	&emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img width="75px" alt="JavaScript" src="https://img.icons8.com/color/344/javascript.png">
+   </a>
+	&emsp;
+	<a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started" target="_blank"> 
+     <img width="75px" alt="Bootstrap" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+   </a>
+</p>
+
+### 👉 Software & Tools
+ 
+<p align="center">
+	<a href="#"><img width="75px" alt="sts" src="https://lalitk1997.github.io/img/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" /></a>
+	 <a href="#"><img width="75px" alt="intellij" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png"/></a>	
+   <a href = "#"><img width="75px" alt="vscode editer" src="https://lalitk1997.github.io/img/swagger.svg" /></a>
+  <a href = "#"><img width="75px" alt="vscode editer" src="https://img.icons8.com/color/344/visual-studio--v1.png" /></a>
+    <a href="#"><img width="75px" alt="Git" src="https://img.icons8.com/color/344/git.png" /></a>
+    <a href="#"><img width="75px" alt="GitHub" src="https://img.icons8.com/ios-filled/344/github.png" /></a>
+
+</p> 
+
 
 
 
